@@ -10,6 +10,7 @@ The following links contains the _digital pdf version_ of the notes prepared.
 
 [Day 2 - Recent Advancements in Deep Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%202.pdf)
 
+[Day 3 - Fairness in Visual Recognition Tasks](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%203.pdf)
 
 
 
