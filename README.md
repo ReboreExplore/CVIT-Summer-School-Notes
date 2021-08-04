@@ -8,6 +8,7 @@ The following links contains the _digital pdf version_ of the notes prepared.
 
 [Day 1 - Welcome and Introduction](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%201.pdf)
 
+[Day 2 - Recent Advancements in Deep Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%202.pdf)
 
 
 
