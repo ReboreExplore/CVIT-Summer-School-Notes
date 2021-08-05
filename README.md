@@ -16,3 +16,9 @@ The following links contains the _digital pdf version_ of the notes prepared.
 
 _Disclaimer: The slides shown in the notes are taken from the lectures by the respective speakers as mentioned. The contents of the notes thus in no way claimed 
 to be my original work. It is solely for personal revision of the interested audience._
+
+
+
+Update logs:
+
+1. 2021-08-05 10:41 - Updated Day3.pdf with the mathematical inferences.
