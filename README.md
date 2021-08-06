@@ -12,7 +12,7 @@ The following links contains the _digital pdf version_ of the notes prepared.
 
 [Day 3 - Fairness in Visual Recognition Tasks](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%203.pdf)
 
-
+[Day 4 - Incremental Visual Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%204.pdf)
 
 _Disclaimer: The slides shown in the notes are taken from the lectures by the respective speakers as mentioned. The contents of the notes thus in no way claimed 
 to be my original work. It is solely for personal revision of the interested audience._
