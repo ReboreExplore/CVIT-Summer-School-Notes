@@ -19,8 +19,13 @@ The following links contains the _digital pdf version_ of the notes prepared.
 _Disclaimer: The slides shown in the notes are taken from the lectures by the respective speakers as mentioned. The contents of the notes thus in no way claimed 
 to be my original work. It is solely for personal revision of the interested audience._
 
+### Other Resources:
+_I have not prepared any notes or practise codes for the hands on sessions. I am linking the official repositories of the moderators for the same._
 
+1. [Hands on session - colab primer](https://github.com/ThrupthiAnn/ColabPrimerSS2021)
+2. [Hands on session- CNN, RNN and GAN](https://github.com/ThrupthiAnn/SummerSchool2021_HandsOn_Aug7)
 
-Update logs:
+### Update logs:
 
 1. 2021-08-05 10:41 - Updated Day3.pdf with the mathematical inferences.
+
