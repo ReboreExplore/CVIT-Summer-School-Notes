@@ -14,6 +14,8 @@ The following links contains the _digital pdf version_ of the notes prepared.
 
 [Day 4 - Incremental Visual Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%204.pdf)
 
+[Day 5 - Reinforcement Learning - ML for decision learning and control](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%205.pdf)
+
 _Disclaimer: The slides shown in the notes are taken from the lectures by the respective speakers as mentioned. The contents of the notes thus in no way claimed 
 to be my original work. It is solely for personal revision of the interested audience._
 
