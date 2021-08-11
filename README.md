@@ -16,11 +16,13 @@ The following links contains the _digital pdf version_ of the notes prepared.
 
 [Day 5 - Reinforcement Learning - ML for decision learning and control](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%205.pdf)
 
+[Day 6 - Machine Translation](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%206.pdf)
+
 _Disclaimer: The slides shown in the notes are taken from the lectures by the respective speakers as mentioned. The contents of the notes thus in no way claimed 
 to be my original work. It is solely for personal revision of the interested audience._
 
 ### Other Resources:
-_I have not prepared any notes or practise codes for the hands on sessions. I am linking the official repositories of the moderators for the same._
+_I have not prepared any notes or practice codes for the hands on sessions. I am linking the official repositories of the moderators for the same._
 
 1. [Hands on session - colab primer](https://github.com/ThrupthiAnn/ColabPrimerSS2021)
 2. [Hands on session- CNN, RNN and GAN](https://github.com/ThrupthiAnn/SummerSchool2021_HandsOn_Aug7)
