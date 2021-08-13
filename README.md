@@ -1,5 +1,5 @@
 
-> Quick Update 1: Since the lectures are getting more domain specific and complex, it is becoming tedious to note down everything right during the lecture, so I usually revisit and make the necessary changes or corrections (missed slides or comments) after the talk. I will try to upload the notes within a day or two but for some reason I couldn't, I will make sure ,I upload the entire weeks notes by the weekend.
+> Quick Update 1: Since the lectures are getting more domain specific and complex, it is becoming tedious to note down everything right during the lecture, so I usually revisit and make the necessary changes or corrections (missed slides or comments) after the talk. I will try to upload the notes within a day or two but if for some reason I cannot, I will make sure that I upload the entire week's notes by the weekend.
 
 # CVIT-Summer-School-Notes
 Digital Notes of the [5th Summer School on Artificial Intelligence](http://cvit.iiit.ac.in/summerschool2021/index.php) by CVIT, IIITH.
