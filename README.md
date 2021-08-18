@@ -9,29 +9,31 @@ It is a month long online program consisting of various talks, series, tutorials
 
 The following links contains the _digital pdf version_ of the notes prepared.
 
-[Day 1 - Welcome and Introduction](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%201.pdf)
+[Lecture 1 - Welcome and Introduction](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%201.pdf)
 
-[Day 2 - Recent Advancements in Deep Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%202.pdf)
+[Lecture 2 - Recent Advancements in Deep Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%202.pdf)
 
-[Day 3 - Fairness in Visual Recognition Tasks](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%203.pdf)
+[Lecture 3 - Fairness in Visual Recognition Tasks](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%203.pdf)
 
-[Day 4 - Incremental Visual Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%204.pdf)
+[Lecture 4 - Incremental Visual Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%204.pdf)
 
-[Day 5 - Reinforcement Learning - ML for decision learning and control](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%205.pdf)
+[Lecture 5 - Reinforcement Learning - ML for decision learning and control](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%205.pdf)
 
-[Day 6 - Machine Translation](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%206.pdf)
+[Lecture 6 - Machine Translation](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%206.pdf)
 
-[Day 7- Exploring the landscape of Automatic Speech Recognition](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%207.pdf)
+[Lecture 7- Exploring the landscape of Automatic Speech Recognition](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%207.pdf)
 
-[Day 8- Multimodal Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%208.pdf)
+[Lecture 8- Multimodal Learning](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%208.pdf)
 
-[Day 9- Recent Advances in Video and Language Understanding](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%209.pdf)
+[Lecture 9- Recent Advances in Video and Language Understanding](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%209.pdf)
 
-[Day 10 (Speaker 1)- Towards Reconstructing and Editing the Visual World](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2010%20(%20Speaker%201).pdf)
+[Lecture 10 (Speaker 1)- Towards Reconstructing and Editing the Visual World](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2010%20(%20Speaker%201).pdf)
 
-[Day 10 (Speaker 2)- Knowledgeable and Spatio-Temporal Vision and Language](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2010%20(%20Speaker%201).pdf)
+[Lecture 10 (Speaker 2)- Knowledgeable and Spatio-Temporal Vision and Language](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2010%20(%20Speaker%201).pdf)
 
-[Day 11- Neural Network Verification](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2011.pdf)
+[Lecture 11- Neural Network Verification](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2011.pdf)
+
+[Lecture 12- Content Adaptive Convolutional Neural Networks](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2012.pdf)
 
 _Disclaimer: The slides shown in the notes are taken from the lectures by the respective speakers as mentioned. The contents of the notes thus in no way claimed 
 to be my original work. It is solely for personal revision of the interested audience._
