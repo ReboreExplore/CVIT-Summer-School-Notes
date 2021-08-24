@@ -35,6 +35,12 @@ The following links contains the _digital pdf version_ of the notes prepared.
 
 [Lecture 12- Content Adaptive Convolutional Neural Networks](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2012.pdf)
 
+[Lecture 13- Fairness in Two Sided Markets](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2013.pdf)
+
+[Lecture 14- Learning from little data](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2014.pdf)
+
+[Lecture 15- Building Blocks of Generalizable Autonomy](https://github.com/ReboreExplore/CVIT-Summer-School-Notes/blob/main/Day%2015.pdf)
+
 _Disclaimer: The slides shown in the notes are taken from the lectures by the respective speakers as mentioned. The contents of the notes thus in no way claimed 
 to be my original work. It is solely for personal revision of the interested audience._
 
