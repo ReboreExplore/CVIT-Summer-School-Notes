@@ -50,6 +50,7 @@ _I have not prepared any notes or practice codes for the hands on sessions. I am
 1. [Hands on session - colab primer](https://github.com/ThrupthiAnn/ColabPrimerSS2021)
 2. [Hands on session- CNN, RNN and GAN](https://github.com/ThrupthiAnn/SummerSchool2021_HandsOn_Aug7)
 3. [Hands on session on Pytorch by Vedant Singh and Surgan Jandial](https://colab.research.google.com/drive/1FqHiNT-c3fNECJd2PITNuFVCoxIPBIir?usp=sharing)
+4. [Hands on session on Image Colourization, Super Resolution and Impainting](https://github.com/Rudrabha/SS2021-19-08-2021)
 ### Update logs:
 
 1. 2021-08-05 10:41 - Updated Day3.pdf with the mathematical inferences.
